@@ -1,16 +1,18 @@
-# flutter_widgets
 
-A new Flutter project.
+# Flutter Widgets
 
-## Getting Started
+InshAllah I will work with all Flutter utils in this project.
 
-This project is a starting point for a Flutter application.
+#Hive Local Storage
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+#Google map
+
+use package google map and location
+
+add marker
+
+![google map](https://github.com/Ibrahim-K98han/flutter_widgets/assets/37374226/2a3c3649-f9a8-446a-9399-14f066b65398)
