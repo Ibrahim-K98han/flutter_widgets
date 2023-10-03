@@ -7,8 +7,9 @@ InshAllah I will work with all Flutter utils in this project.
 
 CRUD
 
-![todo_home](https://github.com/Ibrahim-K98han/flutter_widgets/assets/37374226/5ddf66d9-82f7-40e8-8714-971c81ccb973)
-![todo_update](https://github.com/Ibrahim-K98han/flutter_widgets/assets/37374226/a89735e0-ecb0-40d1-8eeb-4e173cce6c4d)
+![todo_home](https://github.com/Ibrahim-K98han/flutter_widgets/assets/37374226/6533b530-63df-4464-9cbd-abad2b9b5546)
+![todo_update](https://github.com/Ibrahim-K98han/flutter_widgets/assets/37374226/bc8da257-c46d-4b2a-be14-aba9f2cc251b)
+
 
 
 
